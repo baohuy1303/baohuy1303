@@ -14,10 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=baohuy1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=baohuy1303&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baohuy1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baohuy1303&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=baohuy1303&icon=0&color=0)](https://visitcount.itsvg.in)
 
