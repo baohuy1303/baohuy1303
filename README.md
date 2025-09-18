@@ -1,5 +1,5 @@
 # 👋 Hi I'm Huy:
-💻 Computer Science major aiming to master fullstack development<br><br>🌐 Building impactful apps that solve real-world problems<br><br>🎮 Game dev hobbyist — creating fun projects to entertain<br><br>📈 Currently developing a fullstack web app for a football academy (landing page + student and employee management)<br><br>🚀 Always learning, always leveling up
+💻 Computer Science major aiming to master fullstack development<br><br>🌐 Building impactful apps that solve real-world problems<br><br>🎮 Game dev hobbyist — creating fun projects to entertain<br><br>📈 Working on a fullstack website for soccer academy and SAT AI Project<br><br>🚀 Always learning, always leveling up
 
 
 ## 🌐 Socials:
