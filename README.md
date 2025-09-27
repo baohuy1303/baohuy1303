@@ -1,5 +1,5 @@
 # 👋 Hi I'm Huy:
-💻 Computer Science major aiming to master fullstack development<br><br>🌐 Building impactful apps that solve real-world problems<br><br>🎮 Game dev hobbyist — creating fun projects to entertain<br><br>📈 Working on a fullstack website for soccer academy and SAT AI Project + LEETCODE<br><br>🚀 Always learning, always leveling up <br><br>👋 [My Portfolio Website](https://portfolio-web-nu-six.vercel.app/) 
+💻 Computer Science major aiming to master fullstack development<br><br>🌐 Building impactful apps that solve real-world problems<br><br>🎮 Game dev hobbyist — creating fun projects to entertain<br><br>📈 Working on a fullstack website for soccer academy and SAT AI Project + LEETCODE<br><br>🚀 Always learning, always leveling up <br><br>🔥 [My Portfolio Website](https://portfolio-web-nu-six.vercel.app/) 
 
 
 ## 🌐 Socials:
