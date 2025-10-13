@@ -1,5 +1,5 @@
-# 👋 Hi I'm Huy:
-💻 Computer Science major aiming to master fullstack development<br><br>🌐 Building impactful apps that solve real-world problems<br><br>🎮 Game dev hobbyist — creating fun projects to entertain<br><br>📈 Working on a fullstack website for soccer academy and SAT AI Project + LEETCODE<br><br>🚀 Always learning, always leveling up <br><br>
+# 👋 Hi I'm Huy [(Portfolio Website)](https://portfolio-web-nu-six.vercel.app/) :
+💻 Computer Science major aiming to master fullstack development<br><br>🌐 Building impactful apps that solve real-world problems<br><br>🎮 Game dev hobbyist — creating fun projects to entertain<br><br>📈 Working on a fullstack website for soccer academy and SAT AI Project + LEETCODE<br><br>🚀 Always learning, always leveling up <br>
 
 
 ## 🌐 Socials:
@@ -8,8 +8,7 @@
 
 ## 🚀  Projects:
 🎮 [Game Projects](https://billyman.itch.io/) | ⚽ [Soccer Stats](https://reactjs-football-pract.vercel.app/) | 📋 [Gradvisor](https://score-aim-results-tracker.onrender.com/) | 💰 [WIWI](https://github.com/baohuy1303/wiwi-main) | 📚 SAT Test Platform With AI (WIP)
-
-# 💻 [My Portfolio Website](https://portfolio-web-nu-six.vercel.app/) 
+<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=baohuy1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
