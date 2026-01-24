@@ -7,7 +7,7 @@
 
 
 ## 🚀  Projects:
-🎮 [Game Projects](https://billyman.itch.io/)  |  ⚽ [Soccer Stats](https://reactjs-football-pract.vercel.app/)  |  📋 [Gradvisor](https://score-aim-results-tracker.onrender.com/)  |  💰 [WIWI](https://github.com/baohuy1303/wiwi-main)  |  🎓 [TruDegree](https://github.com/baohuy1303/trudegree)  |  📚 SAT Test Platform With AI (WIP)
+🎮 [Game Projects](https://billyman.itch.io/)  |  ⚽ [Soccer Stats](https://reactjs-football-pract.vercel.app/)  |  📋 [Gradvisor](https://score-aim-results-tracker.onrender.com/)  |  💰 [WIWI](https://github.com/baohuy1303/wiwi-main)  |  🎓 [TruDegree](https://github.com/baohuy1303/trudegree)  |  📚 Leetcoding + assignments
 <br><br>
 
 # 📊 GitHub Stats:
