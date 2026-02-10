@@ -1,5 +1,5 @@
 # 👋 Hi I'm Huy :
-• Computer Science major aiming to master full-stack and AI integration<br>• Building impactful apps that solve real-world problems<br>• Working on a full-stack website for soccer academy and learning AI Engineering<br>• Always learning, always leveling up<br>• Game dev hobbyist, creating fun projects to entertain
+• Computer Science major aiming to master full-stack and AI integration<br>• Building impactful apps that solve real-world problems<br>• Working on a full-stack website for soccer academy and learning AI Engineering<br>• Always learning, always leveling up<br>• Game dev and photographer hobbyist, creating fun projects to learn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b-huy-huynh-763427352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huynhbaohuy130333@gmail.com)
