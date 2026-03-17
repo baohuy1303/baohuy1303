@@ -1,5 +1,5 @@
 # 👋 Hi I'm Huy :
-• Computer Science major aiming to master full-stack and AI integration<br>• Building impactful apps that solve real-world problems<br>• Working on automations with JavaScript + Python and learning Golang<br>• Always learning, always leveling up<br>• Game dev and photographer hobbyist, creating fun projects to learn
+• Computer Science major aiming to master backend and AI integration<br>• Building impactful apps that solve real-world problems<br>• Working on automations with JavaScript + Python and learning Golang<br>• Always learning, always leveling up<br>• Game dev and photographer hobbyist, creating fun projects to learn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b-huy-huynh-763427352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huynhbaohuy130333@gmail.com)
