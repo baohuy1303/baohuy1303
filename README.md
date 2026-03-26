@@ -6,7 +6,12 @@
 
 
 ## 🚀  Cool Projects:
-🎮 [Game Projects](https://billyman.itch.io/)  |  📋 [Gradvisor](https://score-aim-results-tracker.onrender.com/)  |  💰 [WIWI](https://github.com/baohuy1303/wiwi-main)  |  🎓 [TruDegree](https://github.com/baohuy1303/trudegree)  |  ⚙️ [Production multi-tenant](https://github.com/baohuy1303/task-manager-jetzy)  |  📚 [TruStudy](https://github.com/baohuy1303/tru-study)  |  🎯 Learning Golang + n8n automations
+📚 [Homework automation](https://github.com/baohuy1303/tru-study): Agents that do homework for you - Winner Boeing TruHacks 2026 - Made in 48 hours <br/>
+⚙️ [Production multi-tenant](https://github.com/baohuy1303/task-manager-jetzy): Made a backend optimized for speed (200ms to <8ms) - Learning project <br/>
+🎓 [Degree Planner Agents](https://github.com/baohuy1303/trudegree): An agentic academic advisor that can reason and come up with degree plans based on real catalog data <br/>
+💰 [Raffle AI Marketplace](https://github.com/baohuy1303/wiwi-main): Raffle marketplace with cool business logic twists, and AI checker/automation for each item uploaded <br/>
+📋 [Gradvisor](https://score-aim-results-tracker.onrender.com/): Score logging with AI what-if scenarios to estimate the score you'd need to achieve your GPA <br/> <br/>
+🎯 Currently learning Golang + Java & Springboot
 <br>
 
 # 📊 GitHub Stats:
