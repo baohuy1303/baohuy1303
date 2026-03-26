@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b-huy-huynh-763427352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huynhbaohuy130333@gmail.com)
 
 
-## 🚀  Cool Projects:
+## 🚀 Projects:
 📚 [Homework automation](https://github.com/baohuy1303/tru-study): Agents that do homework for you - Winner Boeing TruHacks 2026 - Made in 48 hours <br/>
 ⚙️ [Production multi-tenant](https://github.com/baohuy1303/task-manager-jetzy): Made a backend optimized for speed (200ms to <8ms) - Learning project <br/>
 🎓 [Degree Planner Agents](https://github.com/baohuy1303/trudegree): An agentic academic advisor that can reason and come up with degree plans based on real catalog data <br/>
