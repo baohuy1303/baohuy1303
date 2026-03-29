@@ -34,5 +34,6 @@ You can contact me at my [Linkedin](https://www.linkedin.com/in/hbhuy/) or my em
 ### 📊 GitHub Stats:
 
 <!--![](https://github-readme-stats.vercel.app/api?username=baohuy1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=baohuy1303&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baohuy1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://ghstats.dev/api/card?username=baohuy1303&theme=gruvbox&border_radius=0)
+
+![Top Languages](https://ghstats.dev/api/langs?username=baohuy1303&theme=gruvbox&border_radius=0)
