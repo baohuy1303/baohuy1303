@@ -1,6 +1,6 @@
 # 👋 Hi I'm Huy :
 
-• Computer Science major aiming to master backend and AI engineering<br>• Building impactful apps that solve real-world problems<br>• Always learning, always leveling up<br>• Game dev and photographer hobbyist, creating fun projects to learn
+• Computer Science major aiming to master backend and AI engineering<br>• Building impactful apps that solve real-world problems<br>• Always learning, always leveling up<br>• Interests: AI agents, automation, internal platform/tools, infrastructure<br>• Other hobbies: Volleyball, soccer, photo-videography, content creation
 
 ---
 
