@@ -6,7 +6,7 @@
 
 ### 🚀 Projects:
 📈 [LLM Usage Tracker](https://github.com/baohuy1303/llm-usage-tracker): Track token usage, cost, and enforce budget with real-time dashboards and metrics made in Go. <br/>
-📚 [Homework automation](https://github.com/baohuy1303/tru-study) : Multi-agents that do homework for you - Winner Boeing TruHacks 2026 - Made in 48 hours <br/>
+📚 [Autonomous Scholar Agent](https://github.com/baohuy1303/tru-study) : Multi-agents that do homework for you - Winner Boeing TruHacks 2026 - Made in 48 hours <br/>
 ⚙️ [Production multi-tenant](https://github.com/baohuy1303/task-manager-jetzy) : Made a backend optimized for speed (200ms to <8ms) - Learning project <br/>
 🎓 [Degree Planner Agent](https://github.com/baohuy1303/trudegree) : Agentic academic advisor that can web-scrape and reason to create degree plans based on real catalog data <br/>
 ⌨️ [Multimodal Latex Editor](https://github.com/baohuy1303/voice2latex) : Voice, PDFs, and text into structured LaTeX, bridging problem-solving and docs - Made in 24 hours <br/>
