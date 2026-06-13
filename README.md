@@ -16,6 +16,11 @@
 
 ---
 
+### 🤝 Open Source Contributions:
+📔 [Docere](https://github.com/Koding-4-Kids/docere-v2) : Powering 21,000+ engineers and students by contributing to the backend of an LMS-integrated adaptive AI tutor. <br/>
+
+---
+
 ### 💻 Tech & tools:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 	[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -37,4 +42,4 @@ You can contact me at my [Linkedin](https://www.linkedin.com/in/hbhuy/) or my em
 <!--![](https://github-readme-stats.vercel.app/api?username=baohuy1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![GitHub Stats](https://ghstats.dev/api/card?username=baohuy1303&theme=gruvbox&border_radius=0)
 
-![Top Languages](https://ghstats.dev/api/langs?username=baohuy1303&theme=gruvbox&border_radius=0)
+<!-- ![Top Languages](https://ghstats.dev/api/langs?username=baohuy1303&theme=gruvbox&border_radius=0) -->
