@@ -16,7 +16,7 @@
 
 ---
 
-### 🤝 Open Source Contributions:
+### 🤝 Open Source & Contributions:
 🛳️ **[Kubernetes - Minikube](https://github.com/kubernetes/minikube)** - **31.9k+** stars: Running Kubernetes locally, built in Go. Resolved and automated CI workflows. <br/>
 📔 **[Docere](https://github.com/Koding-4-Kids/docere-v2)** : Powering **21,000+** engineers and students by contributing to the backend of an LMS-integrated adaptive AI tutor. <br/>
 
