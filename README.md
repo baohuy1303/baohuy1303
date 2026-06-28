@@ -1,6 +1,6 @@
 # 👋 Hi I'm Huy :
 
-• Computer Science major aiming to master backend and AI engineering<br>• Building impactful apps that solve real-world problems<br>• Always learning, always leveling up<br>• Interests: Agentic AI, infrastructure, backend<br>• Other hobbies: Volleyball, soccer, photo-videography, content creation
+• Computer Science major with interests in: Agentic AI, infrastructure, backend, cloud<br>• Other hobbies: Volleyball, soccer, photo-videography, content creation
 
 ---
 
@@ -12,7 +12,7 @@
 ⌨️ [Multimodal Latex Editor](https://github.com/baohuy1303/voice2latex) : Voice, PDFs, and text into structured LaTeX, bridging problem-solving and docs - Made in 24 hours <br/>
 💰 [Raffle AI Marketplace](https://github.com/baohuy1303/wiwi-main) : Raffle marketplace with cool business logic twists, and AI checker/automation for each item uploaded <br/>
 📋 [Gradvisor](https://score-aim-results-tracker.onrender.com/) : Score logging with AI what-if scenarios to estimate the score you'd need to achieve your GPA <br/> <br/>
-🎯 Currently learning Golang with in-depth backend/infra concepts
+🎯 Currently learning Golang with backend/infra concepts
 
 ---
 
@@ -28,7 +28,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)  [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
  
 ---
 
