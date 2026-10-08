@@ -32,7 +32,7 @@ Other projects: 🎓 [Degree Planner Agent](https://github.com/baohuy1303/trudeg
 
 ### 🌐 Contact:
 
-You can contact me at my [Linkedin](https://www.linkedin.com/in/hbhuy/) or my email: huynhbaohuy130333@gmail.com
+You can contact me at my email: huynhbaohuy130333@gmail.com
 
 ---
 
