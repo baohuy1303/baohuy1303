@@ -1,4 +1,4 @@
-# 👋 Hi I'm Huy :
+# 👋 Hi I'm Huy/Billy :
 
 • Computer Science major with interests in: Agentic AI, infrastructure, backend, cloud<br>• Other hobbies: Volleyball, soccer, photo-videography, content creation<br>• Committing more on my company account right now :)
 
